@@ -1,0 +1,3 @@
+2024-12-25 09:01:28,154 - INFO - 2024-12-25 09:01:28.154016 Script started.
+2024-12-25 09:02:03,886 - INFO - 2024-12-25 09:01:28.154016 Data saved successfully to Premier League Stats Last 10 Years.xlsx
+2024-12-25 09:02:03,886 - INFO - 2024-12-25 09:01:28.154016 Script finished.
